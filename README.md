@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @m0ii0m
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ✨Java✨
+👋 Bonjour ! Je suis étudiant ingénieur en informatique, passionné par la programmation et le développement logiciel.
 
-<!---
-m0ii0m/m0ii0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Compétences techniques : C, C#, Python, Java. Actuellement en cours d'apprentissage du C++ et du moteur de jeu Unity pour renforcer mes compétences en développement de jeux et d'applications interactives.
+
+🚀 Je suis toujours à la recherche de nouveaux projets innovants et intéressants pour mettre en pratique mes connaissances et continuer à progresser.
+
+📫 N'hésitez pas à me contacter pour toute collaboration ou discussion autour de projets !
